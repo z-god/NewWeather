@@ -4,6 +4,8 @@
 yarn
 #or
 npm install
+
+npm run dev
 ```
 
 详见
